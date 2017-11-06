@@ -1,0 +1,6 @@
+# edit and rename to config.toml
+[loxone]
+url = "192.168.1.1"
+user = "loxone"
+password = "yoursecretpassword"
+reopenInterval = 10

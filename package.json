@@ -1,0 +1,27 @@
+{
+  "name": "loxone",
+  "version": "1.0.0",
+  "description": "Experimenting with Loxone miniserver",
+  "main": "loxone.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Richard Laffers",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "chalk": "^2.1.0",
+    "crypto-js": "^3.1.9-1",
+    "inquirer": "^3.2.2",
+    "readline": "^1.3.0",
+    "readline-sync": "^1.4.7",
+    "string.prototype.padstart": "^3.0.0",
+    "vorpal": "^1.12.0",
+    "ws": "^3.1.0",
+    "xmlhttprequest": "^1.8.0"
+  },
+  "devDependencies": {
+    "eslint": "^4.4.1",
+    "eslint-config-google": "^0.9.1"
+  }
+}
